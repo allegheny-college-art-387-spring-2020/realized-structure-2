@@ -12,7 +12,7 @@
 >
 > Michel de Certeau, "Spatial Stories," _The Practice of Everyday Life_
 
-What features make a place a space (or vice-versa)? How are specific objects and landscapes essential to stories? Do the characters awaken place rather than place creating or awaking characters? This assignment intends to use de Certau's idea that place enables and tells stories itself, creating a stage ("theatre of action") without which there would be no story.
+What features make a place a space (or vice-versa)? How are specific objects and landscapes essential to stories? Do the characters awaken place rather than place creating or awaking characters? This assignment intends to use de Certeau's idea that place enables and tells stories itself, creating a stage ("theatre of action") without which there would be no story.
 
 ### Supporting readings
 
@@ -25,6 +25,10 @@ For creating clear "Markdown"-based files, I suggest a read through:
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Guidelines
+
+### Fairy tales
+
+You may choose to conceptualize designs for only fairly tales _your group did not create_.
 
 ### Sites
 
@@ -41,6 +45,7 @@ On the designated handoff day (24 February), you will exchange CAD files with an
 ### Design
 
 - [ ] A physical model occupying no less than 10 in<sup>2</sup> and no more than 15 in<sup>2</sup> which:
+    * Cannot be a square or rectangle
     * Takes advantage of a given piece of terrain to act as a "site" from which to tell the fairy tale you've chosen
     * Contains _no_ humans or humanoids
     * Uses features of landscape and objects representing figurative emotions/concepts/ideas from the story as visual forms
